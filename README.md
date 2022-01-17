@@ -1,0 +1,1 @@
+# NLP-sentiment-analysis-of-e-commerce-reviews-using-Word2Vec
